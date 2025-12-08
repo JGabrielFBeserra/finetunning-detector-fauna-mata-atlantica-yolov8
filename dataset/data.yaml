@@ -2,6 +2,6 @@ path: C:\Users\joao.beserra\Documents\yolo\finetunning-detector-fauna-mata-atlan
 train: all-images/Gamba  
 val: all-images/Gamba 
 
-nc: 2
-names: ['Gamba', 'Paca', 'Undefined']
+nc: 5
+names: ['Gamba', 'Paca', 'Undefined', 'Lagarto-Teiú', 'Gato']
 
