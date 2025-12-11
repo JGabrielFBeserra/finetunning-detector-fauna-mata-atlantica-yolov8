@@ -22,6 +22,7 @@ CLASSES = [
     "Paca",
     "Tamandua Mirim",
     "Tatu"
+    "0-Banco-de-Fotos"
 ]
 
 
